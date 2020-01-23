@@ -1,0 +1,2 @@
+Program1	"$(AS_CPU_PATH)/Program1/Program1.ox" -o "$(AS_CPU_PATH)/Program1.br" -v V1.00.0 -f "$(AS_CPU_PATH)/Global.ofs" -T SG4  -B M4.01 -extConstants -r Cyclic1 -p 2 -s Program1 --$$$newFormat$$$
+MtrCtrl	"$(AS_CPU_PATH)/MtrCtrl/MtrCtrl.ox" -o "$(AS_CPU_PATH)/MtrCtrl.br" -v V1.00.0 -f "$(AS_CPU_PATH)/Global.ofs" -T SG4  -B M4.01 -extConstants -r Library -R "A new source library"  -s Libraries.MtrCtrl --$$$newFormat$$$

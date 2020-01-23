@@ -1,0 +1,5 @@
+$(AS_CPU_PATH)/MtrCtrl/FB_Controller.o:
+$(AS_PROJECT_PATH)/Logical/Libraries/MtrCtrl/FB_Controller.c
+$(AS_GNU_INST_PATH)/i386-elf/include/bur/plctypes.h
+$(AS_GNU_INST_PATH)/i386-elf/include/bur/plc.h
+$(AS_TEMP_PATH)/Includes/MtrCtrl.h

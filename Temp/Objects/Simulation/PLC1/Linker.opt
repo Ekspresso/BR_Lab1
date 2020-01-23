@@ -1,0 +1,2 @@
+Program1	-o "$(AS_CPU_PATH)/Program1/a.out" "$(AS_CPU_PATH)/Program1/Program1.o"  -G V4.1.2  -specs=I386specs -Wl,-q,-T,SG4.x -T SG4  --$$$newFormat$$$
+MtrCtrl	-o "$(AS_CPU_PATH)/MtrCtrl/a.out" "$(AS_CPU_PATH)/MtrCtrl/FB_Integrator.o" "$(AS_CPU_PATH)/MtrCtrl/FB_Motor.o" "$(AS_CPU_PATH)/MtrCtrl/FB_Controller.o"  -G V4.1.2  -specs=I386specs -Wl,-q,-T,SG4.x -T SG4  --$$$newFormat$$$

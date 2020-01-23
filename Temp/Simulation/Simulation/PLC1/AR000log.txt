@@ -1,0 +1,36 @@
+
+
+Wed Oct 02 18:06:14 2019
+No ARsim registration found!
+  Bernecker & Rainer 
+
+
+
+Wed Oct 02 18:06:14 2019
+COMMAND_COLDSTART
+InstanceName : 01d57932ef0efc00
+
+WorkingPath :
+D:\Shelchkov\Lab1\Temp\Simulation\Simulation\PLC1\
+
+
+
+Wed Oct 02 18:06:14 2019
+COMMAND_COLDSTART
+Version : M4.01
+
+
+
+Wed Oct 02 18:06:58 2019
+COMMAND_TERMINATE
+
+
+Wed Oct 02 18:06:58 2019
+Old process terminated: D:\Shelchkov\Lab1\Temp\Simulation\Simulation\PLC1\AR000Debug.exe
+
+
+Wed Oct 02 18:06:58 2019
+COMMAND_TERMINATE
+
+
+Wed Oct 02 18:06:58 2019

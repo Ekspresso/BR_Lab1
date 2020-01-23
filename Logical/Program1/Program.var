@@ -1,0 +1,18 @@
+(********************************************************************
+ * COPYRIGHT --  
+ ********************************************************************
+ * Program: Program1
+ * File: Program1.var
+ * Author: admin
+ * Created: October 16, 2018
+ ********************************************************************
+ * Local variables of program Program1
+ ********************************************************************)
+VAR
+	fb_controller : FB_Controller := (0);
+	fb_motor : FB_Motor := (0);
+	fb_motor2 : FB_Motor := (0);
+	speed : REAL := 0.0;
+	enable : BOOL := FALSE;
+	count : INT := 0;
+END_VAR

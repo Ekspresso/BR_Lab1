@@ -1,0 +1,2 @@
+Program1	"$(AS_CPU_PATH)/Program1/a.out" -o "$(AS_CPU_PATH)/Program1/Program1.ox" -T SG4 -r Cyclic1   -G V4.1.2  --$$$newFormat$$$
+MtrCtrl	"$(AS_CPU_PATH)/MtrCtrl/a.out" -o "$(AS_CPU_PATH)/MtrCtrl/MtrCtrl.ox" -T SG4 -r Library   -G V4.1.2  --$$$newFormat$$$
